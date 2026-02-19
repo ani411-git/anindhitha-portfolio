@@ -19,7 +19,7 @@ Third-year Biomedical Engineering student (B.E., SSN College of Engineering, CGP
 ### Medical Imaging & Reconstruction
 - Intensity-Based 2D–3D Registration using DRR Simulation (IIT Madras HTIC, 2025) 
     - DRR generation pipeline for lumbar spine CT datasets modeled in 3D Slicer, with NCC-based optimization using the Powell, L-BFGS-B, and TNC frameworks.
-    - Project Link:
+    - Project Link: https://github.com/ani411-git/drr-2d3d-registration-pipeline
  
 ### Machine Learning for Medical Imaging
 - Tumor Severity Classification in Mammary Tissue
